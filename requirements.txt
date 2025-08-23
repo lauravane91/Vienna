@@ -40,6 +40,7 @@ opt_einsum==3.4.0
 optree==0.17.0
 packaging==25.0
 pandas==2.3.1
+plotly==6.3.0
 pillow==11.3.0
 protobuf==5.29.5
 pyarrow==21.0.0
